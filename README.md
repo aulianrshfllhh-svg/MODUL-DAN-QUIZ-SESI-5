@@ -17,3 +17,6 @@
 ## 🚀 Cara Menjalankan
 1. **Halaman Daftar:** `http://localhost:8000/koleksi`
 2. **Halaman Detail:** `http://localhost:8000/koleksi/101`
+
+## 📸 Screenshot Hasil
+![Tampilan Daftar Buku](./hasil_koleksi.png)
